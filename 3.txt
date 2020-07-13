@@ -1,0 +1,14 @@
+Problem :: Range of number
+Input       Output
+[1,5]       1,2,3,4,5
+[1,5)       1,2,3,4
+(1,5]       2,3,4,5
+(1,5)       2,3,4
+
+6 problems
+1. [  # pick start number
+2. ]  # pick end number
+3. (  # don't pick start number
+4. )  # don't pick end number
+5. start number
+6. end number
